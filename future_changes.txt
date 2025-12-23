@@ -4,3 +4,5 @@ add photos in readme.md
 directory structure, and file changes ?
 new samples while adding 1000 new photos are being added when name starts with lower case
 add documentation
+refine readme
+ui improvments
